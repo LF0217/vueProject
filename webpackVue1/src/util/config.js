@@ -1,0 +1,2 @@
+
+export const MESSAGE_DURATION=1500
